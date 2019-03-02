@@ -20,7 +20,8 @@ CTF, K - 9 Curriculum Outcomes, <a href="https://education.alberta.ca/career-and
 CTS, Computer Science Education, Last Accessed 20190203
 - <a href="https://education.alberta.ca/career-and-technology-studies/programs-of-study/">Program of Studies Website</a>
 - <a href="https://education.alberta.ca/career-and-technology-studies/bit-cluster-businessadminfinanceit/everyone/bit-occupational-areas/">Computer Science Education Website</a>
-- <a href="https://education.alberta.ca/media/159478/cse_sum.pdf">Course Summaries PDF</a>, <a href="https://education.alberta.ca/media/159479/cse_pos.pdf">Program of Studies PDF</a>
+- <a href="https://education.alberta.ca/media/159478/cse_sum.pdf">Course Summaries PDF</a>
+- <a href="https://education.alberta.ca/media/159479/cse_pos.pdf">Program of Studies PDF</a>
 - Attend to these Courses
   - CSE1210: CLIENT-SIDE SCRIPTING 1
   - CSE1220: CLIENT-SIDE SCRIPTING 2
