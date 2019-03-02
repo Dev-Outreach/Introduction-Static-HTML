@@ -12,4 +12,15 @@ Mercer's Kitchen Grade 5 Mentoring Project using these files, <a href="https://g
 
 #To Include
 
+Alberta Curriculum
+
+Purpose of Introduction
+
+Learning Outcomes
+
+Intended Hardware, Optional Hardware
+
+Intended Software, Optional Software 
+
+
 ---
