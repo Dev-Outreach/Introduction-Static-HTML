@@ -8,7 +8,7 @@ Mercer's Kitchen Grade 5 Mentoring Project using these files, <a href="https://g
 **UNDER CONSTRUCTION**
 
 Contents
-- <a href="https://github.com/Dev-Outreach/Introduction-Static-HTML/blob/master/README.md">Alberta Program of Studies and Links</a>
+- <a href="https://github.com/Dev-Outreach/Introduction-Static-HTML/blob/master/README.md#alberta-curriculum">Alberta Program of Studies and Links</a>
 - 
 
 ---
