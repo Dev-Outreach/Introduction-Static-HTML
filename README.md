@@ -44,9 +44,14 @@ for a link to the expectations in a Grade 5 Mentoring Project.
 
 ---
 
+## Learning Outcomes and Assessment
+
+
+---
+
 #To Include
 
-Learning Outcomes
+
 
 Intended Hardware, Optional Hardware
 
