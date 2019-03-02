@@ -9,7 +9,8 @@ Mercer's Kitchen Grade 5 Mentoring Project using these files, <a href="https://g
 
 Contents
 - <a href="https://github.com/Dev-Outreach/Introduction-Static-HTML/blob/master/README.md#alberta-curriculum">Alberta Program of Studies and Links</a>
-- <a href="">Introduction and Resources Links</a>
+- <a href="https://github.com/Dev-Outreach/Introduction-Static-HTML/blob/master/README.md#introductions-and-links">Introduction and Resources Links</a>
+- <a href=""></a>
 
 ---
 
@@ -31,8 +32,14 @@ CTS, Computer Science Education, Last Accessed 20190203
 
 ## Introductions and Links
 
+Create a simple responsive page (mobile to desktop) in HTML
 
-<a href=""></a>
+Lessons include .css overwriting & .js Easter Eggs and Traversing DOM files
+
+For Detailed Expectations, 
+<a href="https://github.com/MercersKitchen/Website-Mentoring#expectations">click here</a>
+
+---
 
 #To Include
 
