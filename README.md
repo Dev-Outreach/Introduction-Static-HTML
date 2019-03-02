@@ -2,6 +2,8 @@
 With .css and .js links to overwrite and options to include
 
 **Purpose:**
+- Introduce HTML5 through an HTML Portfolio Building Project, with additional .css and .js files
+- .css & .js are linked files or amended files
 
 Mercer's Kitchen Grade 5 Mentoring Project using these files, <a href="https://github.com/MercersKitchen/Website-Mentoring">Click Here</a>
 
@@ -37,13 +39,12 @@ Create a simple responsive page (mobile to desktop) in HTML
 Lessons include .css overwriting & .js Easter Eggs and Traversing DOM files
 
 For Detailed Expectations, 
-<a href="https://github.com/MercersKitchen/Website-Mentoring#expectations">click here</a>
+<a href="https://github.com/MercersKitchen/Website-Mentoring#expectations">click here</a> 
+for a link to the expectations in a Grade 5 Mentoring Project.
 
 ---
 
 #To Include
-
-Purpose of Introduction
 
 Learning Outcomes
 
