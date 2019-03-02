@@ -31,8 +31,6 @@ CTS, Computer Science Education, Last Accessed 20190203
 
 #To Include
 
-Alberta Curriculum
-
 Purpose of Introduction
 
 Learning Outcomes
