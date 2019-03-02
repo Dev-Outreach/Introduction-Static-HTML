@@ -48,7 +48,7 @@ for a link to the expectations in a Grade 5 Mentoring Project.
 
 **UNDER CONSTRUCTION**: will be completed after worked out in classroom
 
-Checklist, 
+Checklist, (add an X in the rectangle to create a checkmark)
 - [] I changed the title
 - [] I changed my personal information
 - [] I changed my digitial description and added ideas
