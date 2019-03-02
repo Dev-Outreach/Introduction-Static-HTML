@@ -9,7 +9,7 @@ Mercer's Kitchen Grade 5 Mentoring Project using these files, <a href="https://g
 
 Contents
 - <a href="https://github.com/Dev-Outreach/Introduction-Static-HTML/blob/master/README.md#alberta-curriculum">Alberta Program of Studies and Links</a>
-- 
+- <a href="">Introduction and Resources Links</a>
 
 ---
 
@@ -28,6 +28,11 @@ CTS, Computer Science Education, Last Accessed 20190203
   - CSE2210: CLIENT-SIDE SCRIPTING 3
 
 ---
+
+## Introductions and Links
+
+
+<a href=""></a>
 
 #To Include
 
