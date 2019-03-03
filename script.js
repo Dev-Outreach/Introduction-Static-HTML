@@ -75,8 +75,8 @@ function main() {
   document.querySelectorAll('section')[1].setAttribute('class', 'bg1');
 
   isAllTagsPresent ?
-    document.querySelector('#checklist').setAttribute('id', 'checklist complete') :
-    document.querySelector('#checklist').setAttribute('id', 'checklist incomplete');
+    document.querySelector('#checklist').setAttribute('id', 'complete') :
+    document.querySelector('#checklist').setAttribute('id', 'incomplete');
 }
 
 function createIds() {
