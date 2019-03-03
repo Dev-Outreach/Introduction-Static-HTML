@@ -61,11 +61,14 @@ document.onload = main();
 
 function main() {
   let isAllTagsPresent = true;
+  const isChecklist = window.location.search === '?testing';
 
   createIds();
-  createChecklist();
+  if (isChecklist) {
+    createChecklist();
+  }
   tagSelectors.map(selector => {
-    if (window.location.search === 'testing') {
+    if (isChecklist) {
       createChecklistItem(selector);
     }
 
