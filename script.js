@@ -60,14 +60,21 @@ const tagSelectors = [
 document.onload = main();
 
 function main() {
+  let isAllTagsPresent = true;
+
   createIds();
   createChecklist();
   tagSelectors.map(selector => {
     createChecklistItem(selector);
     if (!tagExists(selector)) {
       addElement(selector);
+      isAllTagsPresent = false;
     }
   });
+
+  isAllTagsPresent ?
+    document.querySelector('#checklist').setAttribute('id', 'checklist complete') :
+    document.querySelector('#checklist').setAttribute('id', 'checklist incomplete');
 }
 
 function createIds() {
@@ -105,7 +112,7 @@ function createChecklistItem(selector) {
   const checklistItem = document.createElement('i');
   checklistItem.setAttribute('class', tagExists(selector) ? 'fas fa-check' : 'fas fa-times');
   const checklistItemContent = document.createTextNode(selector.name);
- 
+
   checklistItem.appendChild(checklistItemContent);
   section.appendChild(checklistItem);
 }
