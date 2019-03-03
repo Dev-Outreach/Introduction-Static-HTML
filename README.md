@@ -61,5 +61,13 @@ Checklist, (add an X in the rectangle to create a checkmark)
 
 #To Include
 
+Instruction Sets
+- Screen Shots for deployment
+
+Note about alternating sections with image-text, text-image 
+
+To Embed Video, go to YouTube and copy the Embed line
+
+URL ?Test will show the Red-Green List
 
 ---
