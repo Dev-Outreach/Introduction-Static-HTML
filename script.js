@@ -65,7 +65,10 @@ function main() {
   createIds();
   createChecklist();
   tagSelectors.map(selector => {
-    createChecklistItem(selector);
+    if (window.location.search === 'testing') {
+      createChecklistItem(selector);
+    }
+
     if (!tagExists(selector)) {
       addElement(selector);
       isAllTagsPresent = false;
