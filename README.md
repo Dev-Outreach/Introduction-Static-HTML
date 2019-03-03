@@ -59,7 +59,7 @@ Checklist, (add an X in the rectangle to create a checkmark)
 
 ---
 
-#To Include
+# To Include
 
 Instruction Sets
 - Screen Shots for deployment
