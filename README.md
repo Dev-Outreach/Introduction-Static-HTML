@@ -46,16 +46,20 @@ for a link to the expectations in a Grade 5 Mentoring Project.
 
 ## Learning Outcomes and Assessment
 
+**UNDER CONSTRUCTION**: will be completed after worked out in classroom
+
+Checklist, (add an X in the rectangle to create a checkmark)
+- [] I changed the title
+- [] I changed my personal information
+- [] I changed my digitial description and added ideas
+- [] I described a celebration I was in
+- [] I included a photograph
+- [] I described a specific item of the photograph I love
+- [] I added a video or a second image, with a description
 
 ---
 
 #To Include
-
-
-
-Intended Hardware, Optional Hardware
-
-Intended Software, Optional Software 
 
 
 ---
