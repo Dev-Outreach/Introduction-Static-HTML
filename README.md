@@ -1,5 +1,5 @@
 # Introduction Static HTML
-With .css and .js links to overwrite and options to include -Mark Mercer
+With .css and .js links to overwrite and options to include
 
 **Purpose:**
 - Introduce HTML5 through an HTML Portfolio Building Project, with additional .css and .js files
