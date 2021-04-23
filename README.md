@@ -1,5 +1,5 @@
 # Introduction Static HTML
-With .css and .js links to overwrite and options to include
+With .css and .js links to overwrite and options to include -Mark Mercer
 
 **Purpose:**
 - Introduce HTML5 through an HTML Portfolio Building Project, with additional .css and .js files
@@ -38,8 +38,8 @@ Create a simple responsive page (mobile to desktop) in HTML
 
 Lessons include .css overwriting & .js Easter Eggs and Traversing DOM files
 
-For Detailed Expectations, 
-<a href="https://github.com/MercersKitchen/Website-Mentoring#expectations">click here</a> 
+For Detailed Expectations,
+<a href="https://github.com/MercersKitchen/Website-Mentoring#expectations">click here</a>
 for a link to the expectations in a Grade 5 Mentoring Project.
 
 ---
@@ -64,7 +64,7 @@ Checklist, (add an X in the rectangle to create a checkmark)
 Instruction Sets
 - Screen Shots for deployment
 
-Note about alternating sections with image-text, text-image 
+Note about alternating sections with image-text, text-image
 
 To Embed Video, go to YouTube and copy the Embed line
 
